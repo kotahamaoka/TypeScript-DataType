@@ -1,2 +1,2 @@
-# TypeScript-DataType
+# typescript-datatype
 Created with CodeSandbox
